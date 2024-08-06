@@ -1,1 +1,3 @@
 Row number 1
+
+This row was added in new2 branch
